@@ -20,14 +20,24 @@ class FlakyActivity : AppCompatActivity() {
 
     private fun startAnimation() {
         lifecycleScope.launchWhenResumed {
-            delay(3000)
-            binding.rootScrollView.smoothScrollBy(0, 10000)
-            delay(3000)
+            delay(MEDIUM_TIMEOUT_MILLIS)
+            binding.rootScrollView.smoothScrollBy(START_OF_SCREEN_X, END_OF_SCREEN_Y)
+            delay(MEDIUM_TIMEOUT_MILLIS)
             binding.button5.text = getString(R.string.button_5_changed)
-            delay(10000)
-            binding.rootScrollView.smoothScrollTo(0, 0)
-            delay(1000)
+            delay(BIG_TIMEOUT_MILLIS)
+            binding.rootScrollView.smoothScrollTo(START_OF_SCREEN_X, START_OF_SCREEN_Y)
+            delay(LITTLE_TIMEOUT_MILLIS)
             binding.button1.text = getString(R.string.button_1_changed)
         }
+    }
+
+    companion object {
+        private const val START_OF_SCREEN_X = 0
+        private const val START_OF_SCREEN_Y = 0
+        private const val END_OF_SCREEN_Y = 10000
+
+        private const val LITTLE_TIMEOUT_MILLIS = 1000L
+        private const val MEDIUM_TIMEOUT_MILLIS = 3000L
+        private const val BIG_TIMEOUT_MILLIS = 10000L
     }
 }
