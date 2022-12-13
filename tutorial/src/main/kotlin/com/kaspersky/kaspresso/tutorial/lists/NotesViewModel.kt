@@ -8,7 +8,7 @@ class NotesViewModel : ViewModel() {
 
     private val initialList = mutableListOf<Note>().apply {
         val priorities = Priority.values()
-        repeat(3) { id ->
+        repeat(COUNT_OF_NOTES) { id ->
             val priority = priorities[id % priorities.size]
             val note = Note(id = id, text = "Note number $id", priority = priority)
             add(note)
@@ -24,5 +24,10 @@ class NotesViewModel : ViewModel() {
             remove(note)
         }
         _notes.value = newList
+    }
+
+    companion object {
+
+        private const val COUNT_OF_NOTES = 3
     }
 }
