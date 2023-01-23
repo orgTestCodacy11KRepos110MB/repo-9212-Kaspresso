@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>None./</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+         
+    </url>
+    <url>
+         <loc>NoneHome/Breaking-changes/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Home/Breaking-changes/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Home/Breaking-changes/"/>
+         
+    </url>
+    <url>
+         <loc>NoneHome/Contribution_guide/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Home/Contribution_guide/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Home/Contribution_guide/"/>
+         
+    </url>
+    <url>
+         <loc>NoneHome/Kaspresso%20users/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Home/Kaspresso%20users/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Home/Kaspresso%20users/"/>
+         
+    </url>
+    <url>
+         <loc>NoneHome/Kaspresso-in-articles/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Home/Kaspresso-in-articles/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Home/Kaspresso-in-articles/"/>
+         
+    </url>
+    <url>
+         <loc>NoneHome/Kaspresso-in-videos/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Home/Kaspresso-in-videos/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Home/Kaspresso-in-videos/"/>
+         
+    </url>
+    <url>
+         <loc>NoneIssues/Storage_issue/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Issues/Storage_issue/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Issues/Storage_issue/"/>
+         
+    </url>
+    <url>
+         <loc>NoneIssues/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Issues/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Issues/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/Allure/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/Allure/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/Allure/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/Android_permissions/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/Android_permissions/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/Android_permissions/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/Compose_and_continuously/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/Compose_and_continuously/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/Compose_and_continuously/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/Compose_support/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/Compose_support/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/Compose_support/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/Customviews/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/Customviews/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/Customviews/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/Download_Kaspresso_project_and_Android_studio/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/Download_Kaspresso_project_and_Android_studio/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/Download_Kaspresso_project_and_Android_studio/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/E2e_and_functional_tests/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/E2e_and_functional_tests/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/E2e_and_functional_tests/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/FlakySafely/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/FlakySafely/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/FlakySafely/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/Init_and_transform/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/Init_and_transform/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/Init_and_transform/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/Interceptors/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/Interceptors/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/Interceptors/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/Logger_and_screenshots/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/Logger_and_screenshots/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/Logger_and_screenshots/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/Recyclerview/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/Recyclerview/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/Recyclerview/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/Robolectic/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/Robolectic/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/Robolectic/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/Screenshot_tests/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/Screenshot_tests/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/Screenshot_tests/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/UiAutomator/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/UiAutomator/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/UiAutomator/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/WebView/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/WebView/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/WebView/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/Wifi_sample_test/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/Wifi_sample_test/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/Wifi_sample_test/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/Writing_simple_test/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/Writing_simple_test/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/Writing_simple_test/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%20%D0%B8%20%D1%88%D0%B0%D0%B3%D0%BE%D0%B2/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%20%D0%B8%20%D1%88%D0%B0%D0%B3%D0%BE%D0%B2/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%20%D0%B8%20%D1%88%D0%B0%D0%B3%D0%BE%D0%B2/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/%D0%92%D1%8B%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D1%83%D0%B1%D0%BB%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D1%85%D1%81%D1%8F%20%D1%88%D0%B0%D0%B3%D0%BE%D0%B2%20%D0%B2%20Scenario/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/%D0%92%D1%8B%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D1%83%D0%B1%D0%BB%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D1%85%D1%81%D1%8F%20%D1%88%D0%B0%D0%B3%D0%BE%D0%B2%20%D0%B2%20Scenario/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/%D0%92%D1%8B%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D1%83%D0%B1%D0%BB%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D1%85%D1%81%D1%8F%20%D1%88%D0%B0%D0%B3%D0%BE%D0%B2%20%D0%B2%20Scenario/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial/%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20adb-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial/%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20adb-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial/%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20adb-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial_old/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial_old/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial_old/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial_old/Android_studio/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial_old/Android_studio/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial_old/Android_studio/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial_old/Device/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial_old/Device/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial_old/Device/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial_old/Flaky%20safely/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial_old/Flaky%20safely/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial_old/Flaky%20safely/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial_old/Kaspresso_configurator/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial_old/Kaspresso_configurator/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial_old/Kaspresso_configurator/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial_old/Kaspresso_scenario/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial_old/Kaspresso_scenario/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial_old/Kaspresso_scenario/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial_old/Kaspresso_screenshots/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial_old/Kaspresso_screenshots/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial_old/Kaspresso_screenshots/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial_old/Kaspresso_with_allure/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial_old/Kaspresso_with_allure/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial_old/Kaspresso_with_allure/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial_old/Running_the_first_test/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial_old/Running_the_first_test/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial_old/Running_the_first_test/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial_old/adb_commands/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial_old/adb_commands/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial_old/adb_commands/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial_old/off-screen_work/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial_old/off-screen_work/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial_old/off-screen_work/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial_old/other/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial_old/other/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial_old/other/"/>
+         
+    </url>
+    <url>
+         <loc>NoneTutorial_old/simple_test/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Tutorial_old/simple_test/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Tutorial_old/simple_test/"/>
+         
+    </url>
+    <url>
+         <loc>NoneWiki/E2e_and_Functional_tests/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Wiki/E2e_and_Functional_tests/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Wiki/E2e_and_Functional_tests/"/>
+         
+    </url>
+    <url>
+         <loc>NoneWiki/Espresso_as_the_basis/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Wiki/Espresso_as_the_basis/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Wiki/Espresso_as_the_basis/"/>
+         
+    </url>
+    <url>
+         <loc>NoneWiki/Executing_adb_commands/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Wiki/Executing_adb_commands/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Wiki/Executing_adb_commands/"/>
+         
+    </url>
+    <url>
+         <loc>NoneWiki/Jetpack_Compose/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Wiki/Jetpack_Compose/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Wiki/Jetpack_Compose/"/>
+         
+    </url>
+    <url>
+         <loc>NoneWiki/Kaspresso_Allure/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Wiki/Kaspresso_Allure/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Wiki/Kaspresso_Allure/"/>
+         
+    </url>
+    <url>
+         <loc>NoneWiki/Kaspresso_Robolectric/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Wiki/Kaspresso_Robolectric/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Wiki/Kaspresso_Robolectric/"/>
+         
+    </url>
+    <url>
+         <loc>NoneWiki/Kaspresso_configuration/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Wiki/Kaspresso_configuration/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Wiki/Kaspresso_configuration/"/>
+         
+    </url>
+    <url>
+         <loc>NoneWiki/Kautomator-wrapper_over_UI_Automator/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Wiki/Kautomator-wrapper_over_UI_Automator/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Wiki/Kautomator-wrapper_over_UI_Automator/"/>
+         
+    </url>
+    <url>
+         <loc>NoneWiki/Matchers_actions_assertions/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Wiki/Matchers_actions_assertions/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Wiki/Matchers_actions_assertions/"/>
+         
+    </url>
+    <url>
+         <loc>NoneWiki/Migrate_from_Espresso/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Wiki/Migrate_from_Espresso/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Wiki/Migrate_from_Espresso/"/>
+         
+    </url>
+    <url>
+         <loc>NoneWiki/Page_object_in_Kaspresso/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Wiki/Page_object_in_Kaspresso/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Wiki/Page_object_in_Kaspresso/"/>
+         
+    </url>
+    <url>
+         <loc>NoneWiki/Screenshot_tests/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Wiki/Screenshot_tests/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Wiki/Screenshot_tests/"/>
+         
+    </url>
+    <url>
+         <loc>NoneWiki/Supported_Android_UI_elements/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Wiki/Supported_Android_UI_elements/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Wiki/Supported_Android_UI_elements/"/>
+         
+    </url>
+    <url>
+         <loc>NoneWiki/Working_with_Android_OS/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Wiki/Working_with_Android_OS/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Wiki/Working_with_Android_OS/"/>
+         
+    </url>
+    <url>
+         <loc>NoneWiki/how_to_write_autotests/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Wiki/how_to_write_autotests/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Wiki/how_to_write_autotests/"/>
+         
+    </url>
+    <url>
+         <loc>NoneWiki/</loc>
+         <lastmod>2023-01-23</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/Wiki/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Wiki/"/>
+         
+    </url>
+</urlset>
